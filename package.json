@@ -1,0 +1,26 @@
+{
+  "name": "compact-uint",
+  "version": "0.0.0",
+  "description": "Compact Size Unsigned Integers",
+  "main": "index.js",
+  "dependencies": {
+    "uint64le": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tape": "^5.1.1"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/compact-uint.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/compact-uint/issues"
+  },
+  "homepage": "https://github.com/mafintosh/compact-uint"
+}
