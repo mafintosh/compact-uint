@@ -1,6 +1,6 @@
 {
   "name": "compact-uint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compact Size Unsigned Integers",
   "main": "index.js",
   "dependencies": {
